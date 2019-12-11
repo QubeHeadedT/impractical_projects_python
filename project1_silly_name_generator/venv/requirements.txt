@@ -1,0 +1,9 @@
+requirements.txt
+############################
+Modules with no specific version: 
+############################
+
+#########
+Modules with specific versions:
+############################
+######### 
