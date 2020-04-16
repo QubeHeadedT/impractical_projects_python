@@ -29,17 +29,18 @@ import sys
 # USER INPUT:
 
 # the string to be decrypted (type or paste between triple-quotes):
-ciphertext = """16 12 8 4 0 1 5 9 13 17 18 14 10 6 2 3 7 11 15 19
+ciphertext = """THIS OFF DETAINED ASCERTAIN WAYLAND CORRESPONDENTS OF AT 
+WHY AND IF FILLS IT YOU GET THEY NEPTUNE THE TRIBUTE PLEASE ARE THEM CAN UP
 """
 
 # number of columns in the transposition matrix: 
 COLS = 4
 
 # number of rows in the transposition matrix:
-ROWS = 5
+ROWS = 6
 
 # key with spaces between numbers; negative to read UP column (ex = -1 2 -3 4):
-key = """ -1 2 -3 4 """
+key = """ -1 2 -3 4"""
 
 # END OF USER INPUT - DO NOT EDIT BELOW THIS LINE
 #==============================================================================
